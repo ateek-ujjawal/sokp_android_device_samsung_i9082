@@ -1,0 +1,2 @@
+add_lunch_combo sokp_i9082-eng
+add_lunch_combo sokp_i9082-userdebug
